@@ -1,0 +1,12 @@
+<meta>
+
+    <info author="Lima https://discord.gg/BN2sQgp" />
+
+    <script src="server.lua" type="server" />
+
+    <aclrequest>
+        <right name="function.kickPlayer" access="true" />
+    </aclrequest>
+</meta>
+
+
